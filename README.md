@@ -1,7 +1,7 @@
 - 👋 Hi, 
-- 👀 I’m interested in ....net core and java fullstack development 
-- 🌱 I’m currently learning ....net core and java web development
-- 💞️ I’m looking to collaborate on ... .net core and java 
+- 👀 I’m interested in ....net core MERN and java fullstack development 
+- 🌱 I’m currently learning ....net core , MERN and java web development
+- 💞️ I’m looking to collaborate on ... .net core,MERN and java 
 
 
 <!---
