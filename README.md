@@ -1,5 +1,5 @@
 - 👋 Hi, 
-- 👀 I’m interested in ....net , MERN and java fullstack development 
+- 👀 I’m interested in ....net , MERN and java fullstack web development 
 - 🌱 I’m currently learning ....net ,MERN and java web development
 - 💞️ I’m looking to collaborate on ... .net ,MERN and java web development
 
