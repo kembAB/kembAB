@@ -1,7 +1,7 @@
 - 👋 Hi, 
-- 👀 I’m interested in ....dot .net , MERN and java fullstack web development 
-- 🌱 I’m currently learning ....dot .net ,MERN and java web development
-- 💞️ I’m looking to collaborate on ... .net ,MERN and java web development
+- 👀 I’m interested in ....dot .net  and (Java)Spring boot  fullstack web development +deveops+cloud
+- 🌱 I’m currently learning ....dot .net and  (Java)Springboot Full stack +devops+clould
+- 💞️ I’m looking to collaborate on ... .net and (Java)Spring boot Full stcak development+devops+cloud
 
 
 <!---
