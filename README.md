@@ -1,10 +1,29 @@
-- 👋 Hi, 
-- 👀 I’m interested in ....dot .net  and (Java)Spring boot  fullstack web development +deveops+cloud
-- 🌱 I’m currently learning ....dot .net and  (Java)Springboot Full stack +devops+clould
-- 💞️ I’m looking to collaborate on ... .net and (Java)Spring boot Full stcak development+devops+cloud
+<h1 align="center">Abel Haile Magicho</h1>
+<h3 align="center">Senior Software & AI Engineer — Houston, Texas</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python" alt="C Sharp, dot NET, Java, Spring Boot, Python" />
+</p>
 
-<!---
-kembAB/kembAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,kafka,docker,kubernetes,git,github" alt="Azure, AWS, Kafka, Docker, Kubernetes, Git, GitHub" />
+</p>
+
+---
+
+### About me
+
+- Senior engineer with 12+ years of experience and an M.Sc. in Software Engineering
+- I build AI systems that run in production: Azure OpenAI document processing and semantic search, LLM applications, and RAG pipelines
+- Full-stack and backend development with C# and .NET, Java and Spring Boot, and Python
+- Cloud and distributed systems on Azure and AWS, with Kafka, Docker, and Kubernetes
+
+### Featured projects
+
+- **[azure-openai-doc-search](https://github.com/kembAB/azure-openai-doc-search)** — Azure OpenAI document processing and semantic search: chunking, embeddings, grounded answers, an agentic layer with tool use, an 11-case eval suite, and a REST API
+- **[ultimate-ai-book-code-examples](https://github.com/kembAB/ultimate-ai-book-code-examples)** — the one-question example programs from my Ultimate AI Book: Part 1 Python for AI, Part 2 Python AI Libraries
+
+### Reach me
+
+- LinkedIn: [linkedin.com/abelmagicho](https://www.linkedin.com/in/abelmagicho)
+- Email: abelmagichoofficial@gmail.com
