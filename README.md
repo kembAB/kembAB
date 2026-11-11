@@ -13,10 +13,11 @@
 
 ### About me
 
-- Senior engineer with 12+ years of experience and an M.Sc. in Software Engineering
-- I build AI systems that run in production: Azure OpenAI document processing and semantic search, LLM applications, and RAG pipelines
-- Full-stack and backend development with C# and .NET, Java and Spring Boot, and Python
-- Cloud and distributed systems on Azure and AWS, with Kafka, Docker, and Kubernetes
+- 👋 Hi, I'm Abel — a senior engineer with 12+ years of experience and an M.Sc. in Software Engineering
+- 👀 I'm interested in AI engineering, .NET and Java Spring Boot full-stack web development, DevOps, and cloud
+- 🌱 I'm currently heading deeper into AI with Python — LLM applications, RAG pipelines, and agentic systems — alongside .NET and Spring Boot full-stack work
+- 💞️ I'm looking to collaborate on AI projects, and on .NET and Spring Boot full-stack development with DevOps and cloud
+- In production I have shipped Azure OpenAI document processing and semantic search, and I build distributed backends on Azure and AWS with Kafka, Docker, and Kubernetes
 
 ### Featured projects
 
