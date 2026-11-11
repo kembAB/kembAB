@@ -1,4 +1,3 @@
-<h1 align="center">Abel Haile Magicho</h1>
 <h3 align="center">Senior Software & AI Engineer — Houston, Texas</h3>
 
 <p align="center">
